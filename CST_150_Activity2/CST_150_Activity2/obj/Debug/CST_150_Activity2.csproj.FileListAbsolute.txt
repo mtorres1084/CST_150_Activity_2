@@ -1,0 +1,9 @@
+P:\GCU\CST_150\Activities\CST_150_Activity2\CST_150_Activity2\bin\Debug\CST_150_Activity2.exe.config
+P:\GCU\CST_150\Activities\CST_150_Activity2\CST_150_Activity2\bin\Debug\CST_150_Activity2.exe
+P:\GCU\CST_150\Activities\CST_150_Activity2\CST_150_Activity2\bin\Debug\CST_150_Activity2.pdb
+P:\GCU\CST_150\Activities\CST_150_Activity2\CST_150_Activity2\obj\Debug\CST_150_Activity2.marsConversionForm.resources
+P:\GCU\CST_150\Activities\CST_150_Activity2\CST_150_Activity2\obj\Debug\CST_150_Activity2.Properties.Resources.resources
+P:\GCU\CST_150\Activities\CST_150_Activity2\CST_150_Activity2\obj\Debug\CST_150_Activity2.csproj.GenerateResource.cache
+P:\GCU\CST_150\Activities\CST_150_Activity2\CST_150_Activity2\obj\Debug\CST_150_Activity2.csproj.CoreCompileInputs.cache
+P:\GCU\CST_150\Activities\CST_150_Activity2\CST_150_Activity2\obj\Debug\CST_150_Activity2.exe
+P:\GCU\CST_150\Activities\CST_150_Activity2\CST_150_Activity2\obj\Debug\CST_150_Activity2.pdb
